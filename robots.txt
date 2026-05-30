@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://www.yorkshirewashingmachinehire.co.uk/sitemap.xml
